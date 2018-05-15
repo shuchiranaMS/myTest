@@ -1,1 +1,4 @@
 this is project2
+
+fun()
+{return "prime";}
